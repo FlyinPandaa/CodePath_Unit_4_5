@@ -51,6 +51,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://imgur.com/a/QzkokEV
 
 
