@@ -7,8 +7,10 @@
 
 import UIKit
 import Parse
+import AlamofireImage
+import MessageInputBar
 
-@main
+    @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
